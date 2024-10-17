@@ -1,0 +1,18 @@
+body{
+    background-color: #ae35dd;
+
+    }
+h1{
+    font-style: italic;
+    font-size: large;
+    font-weight: 33px;
+    color: aqua;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p{
+    font-style: normal;
+    font-size: large;
+    font-weight: 27px;
+    color: rgb(23, 23, 23);   
+}
